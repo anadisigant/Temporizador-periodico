@@ -3,7 +3,7 @@ Repositório criado a fim de armazenar uma aplicação prática da função add_
 __Autora:__ Ana Karolina Disigant Reis
 
 ## Temporizador periódico
-Para que a função _add_repeating_timer_ms()_ tem sua aplicação evidenciada no projeto de um semáforo com temporização de 3 segundos para cada alteração de sinal.<br>
+A função _add_repeating_timer_ms()_ tem sua aplicação evidenciada no projeto de um semáforo com temporização de 3 segundos para cada alteração de sinal.<br>
 
 __Componentes necessários:__ <br>
 1) Microcontrolador Raspberry Pi Pico W;
