@@ -57,6 +57,3 @@ __Uso__
 2. O código está configurado para acionar eventos em intervalos regulares.
 3. Para modificar o tempo do temporizador, ajuste os parâmetros no código-fonte.
 
-__📄 Licença__
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
